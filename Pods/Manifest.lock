@@ -1,0 +1,21 @@
+PODS:
+  - MessageKit (1.0.0.1)
+
+DEPENDENCIES:
+  - "MessageKit (from `git@github.com:lfap/MessageKit.git`)"
+
+EXTERNAL SOURCES:
+  MessageKit:
+    :git: "git@github.com:lfap/MessageKit.git"
+
+CHECKOUT OPTIONS:
+  MessageKit:
+    :commit: a97dcfdcc4ea6cddca104cddb20c3be004a5613f
+    :git: "git@github.com:lfap/MessageKit.git"
+
+SPEC CHECKSUMS:
+  MessageKit: 8049a0e877ca3c2b7eba5911861b23a56b78a6b0
+
+PODFILE CHECKSUM: 732be57e1f3f594aa31115e843f3c0976b31f747
+
+COCOAPODS: 1.5.3
